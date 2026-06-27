@@ -1,1 +1,8 @@
-# CS320-Software-Test-Automation-QA
+How can I ensure that my code, program, or software is functional and secure?
+-I can ensure that my code is functional and secure by adhering to software requirements and carefully testing every aspect of my software before its release, I can guarantee that it will function and remain secure. For this course, I relied on unit testing with JUnit 5 to ensure that valid values would be accepted and invalid values would be rejected. I also added validation for not having a null value, duplicate ID's, invalid field lengths, and past appointment dates. These practices helped ensure that the application was more reliable and secure, as incorrect data was not allowed to enter the system.
+
+How do I interpret user needs and incorporate them into a program?
+-I listen to the user needs by reading and understanding the project requirements and converting them into program functionality. In this course, I designed the contact service, Task service and Appointment service using the customer requirement. All the classes were designed to meet the rules for validation and all the operations for adding, updating and removing objects were carried out by the corresponding services. Then I wrote JUnit tests to check if all the requirements were fulfilled and considered it complete when they were.
+
+How do I approach designing software?
+-I design software after a process of understanding the software requirements and then decomposing the project into smaller and manageable components. I emphasize developing classes with definite responsibilities and procedures that do particular things. Once I've implemented a code snippet, I write unit tests for every component that check to make sure that it is functioning correctly before combining them all into the final product. This practice enables me to detect mistakes at a young age, enhance coding standards, and make the software more manageable and scalable for future growth.
